@@ -1,0 +1,14 @@
+- Definir el subconjunto de Event-B que se traducirá, identificando y
+  documentando su representación e interpretación interna en Python.
+
+- Diseñar e implementar un algoritmo de generación de código que a
+  partir de la representación interna de un modelo en Rodin genere
+  programas ejecutables en Python que correspondan a dicho modelo.
+
+- Aplicar la implementación del algoritmo de generación de código para
+  Python a varios modelos Event-B correctos con el fin de validar la
+  traducción.
+
+- Suministrar la implementación del algoritmo de generación de cógido
+  para Python como un plug-in en Rodin para que realice la tarea de
+  traducción automáticamente desde el entorno de especificación.

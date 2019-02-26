@@ -36,3 +36,47 @@ ebay
 twitter
 intel
 leetcode
+
+Section 2:
+
+shortest path algorithms
+
+Dijkstra's algorithm
+
+Bellman-Ford algorithm
+
+Section 3:
+
+what are spanning trees
+
+union find data structures
+
+Kruskal's algorithm
+
+Prim's algorithm
+
+Section 4:
+
+what are strongly connected components
+
+Kosaraju algorithm
+
+Tarjan algorithm
+
+Section 5:
+
+the famous maximum flow problem
+
+how to reduce most of the hard problems to maximum flow problem
+
+Ford-Fulkerson algorithm
+
+bipartite matching problem
+
+Section 4:
+
+travelling salesman problem (TSP)
+
+how to deal with NP-hard problems
+
+using meta-heuristics: tabu search and simulated annealing

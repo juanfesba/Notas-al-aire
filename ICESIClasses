@@ -8,3 +8,4 @@ http://codeforces.com/blog/entry/23054
 
 DP: Los parametros que mande no deben depender del pasado, solo preocuparme por el futuro (ej. las exnovias)
 Todo DP es un DAG
+Hacer DP iterativo solo si se puede y quiere ahorrar espacio. Top-Down es más fácil de programar (más eficiente?).

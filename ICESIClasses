@@ -7,3 +7,4 @@ http://codeforces.com/blog/entry/23054
 ... PDFS in COMP
 
 DP: Los parametros que mande no deben depender del pasado, solo preocuparme por el futuro (ej. las exnovias)
+Todo DP es un DAG

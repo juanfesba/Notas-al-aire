@@ -10,4 +10,7 @@ DP: Los parametros que mande no deben depender del pasado, solo preocuparme por 
 Todo DP es un DAG
 Hacer DP iterativo solo si se puede y quiere ahorrar espacio. Top-Down es más fácil de programar (más eficiente?).
 
+Implementación DP:
 Si un parametro es muy grande para tabular, se puede usar un diccionario.
+Inicializar una tabla MEMO con valores -1 para saber si ya pasé por ahí.
+DP se puede ver como un backtracking y luego agregar las condiciones MEMO.

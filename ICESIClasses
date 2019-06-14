@@ -16,3 +16,7 @@ Implementación DP:
 Si un parametro es muy grande para tabular, se puede usar un diccionario.
 Inicializar una tabla MEMO con valores -1 para saber si ya pasé por ahí.
 DP se puede ver como un backtracking y luego agregar las condiciones MEMO.
+
+7*77*777*7777
+Usar varias veces teorema de fermat y exponenciacion modular usando modulo en cada operacion y aplicando varios Phis. Hay tambien
+la opcion de usar varios Phis.
